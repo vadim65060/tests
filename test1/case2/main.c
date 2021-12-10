@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include "CosFunc.h"
+#include "ShFunc.h"
 
 int main() {
     double x;
     printf("x=");
     scanf("%lf", &x);
-    printf("%lf", cos(x));
+    printf("%lf", sh(x));
 }
