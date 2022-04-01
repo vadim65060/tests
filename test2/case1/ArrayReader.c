@@ -2,7 +2,6 @@
 // Created by vadim on 01.04.2022.
 //
 
-#include <stddef.h>
 #include <malloc.h>
 #include <stdio.h>
 #include "ArrayReader.h"
