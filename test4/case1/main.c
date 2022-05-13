@@ -14,7 +14,7 @@ int main() {
         }
         if (c == '\n') {
             i++;
-            printf("%i\n", i);
+            //printf("%i\n", i);
         }
     }
     printf("%i %lf", mxI, mx);
